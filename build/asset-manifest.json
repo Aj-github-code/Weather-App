@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/src/components/WeatherEngine.js/static/css/main.13bc2b54.chunk.css",
+    "main.js": "/src/components/WeatherEngine.js/static/js/main.31b9f42d.chunk.js",
+    "main.js.map": "/src/components/WeatherEngine.js/static/js/main.31b9f42d.chunk.js.map",
+    "runtime-main.js": "/src/components/WeatherEngine.js/static/js/runtime-main.93a388ad.js",
+    "runtime-main.js.map": "/src/components/WeatherEngine.js/static/js/runtime-main.93a388ad.js.map",
+    "static/js/2.4432204a.chunk.js": "/src/components/WeatherEngine.js/static/js/2.4432204a.chunk.js",
+    "static/js/2.4432204a.chunk.js.map": "/src/components/WeatherEngine.js/static/js/2.4432204a.chunk.js.map",
+    "index.html": "/src/components/WeatherEngine.js/index.html",
+    "precache-manifest.2e069919bbaf91fa997d9d683e1340cf.js": "/src/components/WeatherEngine.js/precache-manifest.2e069919bbaf91fa997d9d683e1340cf.js",
+    "service-worker.js": "/src/components/WeatherEngine.js/service-worker.js",
+    "static/css/main.13bc2b54.chunk.css.map": "/src/components/WeatherEngine.js/static/css/main.13bc2b54.chunk.css.map",
+    "static/js/2.4432204a.chunk.js.LICENSE.txt": "/src/components/WeatherEngine.js/static/js/2.4432204a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93a388ad.js",
+    "static/js/2.4432204a.chunk.js",
+    "static/css/main.13bc2b54.chunk.css",
+    "static/js/main.31b9f42d.chunk.js"
+  ]
+}
